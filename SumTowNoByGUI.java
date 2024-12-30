@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 import java.util.Scanner;
 
 //GUI
-//TextField = input
+//TextField = input 
 //          =output ?
 
 // Jlable -> display area to texts(Strings) , image
